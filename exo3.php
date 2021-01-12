@@ -10,7 +10,7 @@
 <body>
 <?php 
 $lavie=100;   
-$perso1 = new personnage($lavie,"julien");
+$perso1 = new Personnage2($lavie,"julien");
 $perso1 -> stat ();
 
 
