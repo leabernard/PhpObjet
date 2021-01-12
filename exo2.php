@@ -8,7 +8,7 @@
 </head>
 <body>
 <?php 
-$lavie=250;   
+$lavie=100;   
 $perso1 = new personnage($lavie,"lea");
 $perso1 -> stat ();
 
