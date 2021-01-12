@@ -16,8 +16,10 @@ $perso1 -> stat ();
 
 
 ?>
+<p></p>
 </body>
 </html>
+
 <?php
     highlight_file(__FILE__)
 ?>
