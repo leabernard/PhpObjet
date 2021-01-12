@@ -18,3 +18,6 @@ $perso1 -> stat ();
 ?>
 </body>
 </html>
+<?php
+    highlight_file(__FILE__)
+?>
