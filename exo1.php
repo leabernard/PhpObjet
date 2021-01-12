@@ -1,7 +1,7 @@
 <html>
 
 <head>
-<link rel="stylesheet" href="index.css">
+<link rel="stylesheet" href="exo1.css">
     <?php include("classeExo1.php");?>
 </head>
 
