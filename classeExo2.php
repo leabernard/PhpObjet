@@ -6,8 +6,8 @@ private $_vie;
 
 
 
-public function __construct($newVie,$pseudo){
-$this-> _Speudo=$pseudo;
+public function __construct($newVie){
+
 $this -> _vie = $newVie;
 
 
@@ -15,7 +15,7 @@ $this -> _vie = $newVie;
     
 }
 public function stat(){
-    echo"je m'appelle '$this->_Speudo' et j'ai '$this->_vie'";
+    echo" j'ai '$this->_vie' de vie";
 }
 
 
